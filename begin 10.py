@@ -1,0 +1,7 @@
+a = int(input("Enter a:"))
+b = int(input("Enter a:"))
+sum = (a*a)+(b*b)
+raz = (a*a)-(b*b)
+chas = (a*a)/(b*b)
+proizv = (a*a)*(b*b)
+print("Вычисления равны: ",sum,raz,chas,proizv)
